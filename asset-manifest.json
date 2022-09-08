@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/YoungStartupApp/static/css/main.31d6cfe0.css",
+    "main.js": "/YoungStartupApp/static/js/main.fe565e0f.js",
+    "static/js/787.2e1f126c.chunk.js": "/YoungStartupApp/static/js/787.2e1f126c.chunk.js",
+    "index.html": "/YoungStartupApp/index.html",
+    "main.fe565e0f.js.map": "/YoungStartupApp/static/js/main.fe565e0f.js.map",
+    "787.2e1f126c.chunk.js.map": "/YoungStartupApp/static/js/787.2e1f126c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.fe565e0f.js"
+  ]
+}
